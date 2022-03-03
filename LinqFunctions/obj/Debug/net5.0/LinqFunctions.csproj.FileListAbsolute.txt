@@ -1,0 +1,16 @@
+C:\Dhanush\Full stack Training\C#\LinqFunctions\bin\Debug\net5.0\LinqFunctions.exe
+C:\Dhanush\Full stack Training\C#\LinqFunctions\bin\Debug\net5.0\LinqFunctions.deps.json
+C:\Dhanush\Full stack Training\C#\LinqFunctions\bin\Debug\net5.0\LinqFunctions.runtimeconfig.json
+C:\Dhanush\Full stack Training\C#\LinqFunctions\bin\Debug\net5.0\LinqFunctions.runtimeconfig.dev.json
+C:\Dhanush\Full stack Training\C#\LinqFunctions\bin\Debug\net5.0\LinqFunctions.dll
+C:\Dhanush\Full stack Training\C#\LinqFunctions\bin\Debug\net5.0\ref\LinqFunctions.dll
+C:\Dhanush\Full stack Training\C#\LinqFunctions\bin\Debug\net5.0\LinqFunctions.pdb
+C:\Dhanush\Full stack Training\C#\LinqFunctions\obj\Debug\net5.0\LinqFunctions.csproj.AssemblyReference.cache
+C:\Dhanush\Full stack Training\C#\LinqFunctions\obj\Debug\net5.0\LinqFunctions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dhanush\Full stack Training\C#\LinqFunctions\obj\Debug\net5.0\LinqFunctions.AssemblyInfoInputs.cache
+C:\Dhanush\Full stack Training\C#\LinqFunctions\obj\Debug\net5.0\LinqFunctions.AssemblyInfo.cs
+C:\Dhanush\Full stack Training\C#\LinqFunctions\obj\Debug\net5.0\LinqFunctions.csproj.CoreCompileInputs.cache
+C:\Dhanush\Full stack Training\C#\LinqFunctions\obj\Debug\net5.0\LinqFunctions.dll
+C:\Dhanush\Full stack Training\C#\LinqFunctions\obj\Debug\net5.0\ref\LinqFunctions.dll
+C:\Dhanush\Full stack Training\C#\LinqFunctions\obj\Debug\net5.0\LinqFunctions.pdb
+C:\Dhanush\Full stack Training\C#\LinqFunctions\obj\Debug\net5.0\LinqFunctions.genruntimeconfig.cache

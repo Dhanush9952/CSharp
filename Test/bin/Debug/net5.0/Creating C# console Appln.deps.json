@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Creating C# console Appln/1.0.0": {
+        "runtime": {
+          "Creating C# console Appln.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Creating C# console Appln/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

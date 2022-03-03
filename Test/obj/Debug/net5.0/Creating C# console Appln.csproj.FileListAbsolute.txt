@@ -1,0 +1,16 @@
+C:\Dhanush\Full stack Training\C#\Test\bin\Debug\net5.0\Creating C# console Appln.exe
+C:\Dhanush\Full stack Training\C#\Test\bin\Debug\net5.0\Creating C# console Appln.deps.json
+C:\Dhanush\Full stack Training\C#\Test\bin\Debug\net5.0\Creating C# console Appln.runtimeconfig.json
+C:\Dhanush\Full stack Training\C#\Test\bin\Debug\net5.0\Creating C# console Appln.runtimeconfig.dev.json
+C:\Dhanush\Full stack Training\C#\Test\bin\Debug\net5.0\Creating C# console Appln.dll
+C:\Dhanush\Full stack Training\C#\Test\bin\Debug\net5.0\ref\Creating C# console Appln.dll
+C:\Dhanush\Full stack Training\C#\Test\bin\Debug\net5.0\Creating C# console Appln.pdb
+C:\Dhanush\Full stack Training\C#\Test\obj\Debug\net5.0\Creating C# console Appln.csproj.AssemblyReference.cache
+C:\Dhanush\Full stack Training\C#\Test\obj\Debug\net5.0\Creating C# console Appln.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dhanush\Full stack Training\C#\Test\obj\Debug\net5.0\Creating C# console Appln.AssemblyInfoInputs.cache
+C:\Dhanush\Full stack Training\C#\Test\obj\Debug\net5.0\Creating C# console Appln.AssemblyInfo.cs
+C:\Dhanush\Full stack Training\C#\Test\obj\Debug\net5.0\Creating C# console Appln.csproj.CoreCompileInputs.cache
+C:\Dhanush\Full stack Training\C#\Test\obj\Debug\net5.0\Creating C# console Appln.dll
+C:\Dhanush\Full stack Training\C#\Test\obj\Debug\net5.0\ref\Creating C# console Appln.dll
+C:\Dhanush\Full stack Training\C#\Test\obj\Debug\net5.0\Creating C# console Appln.pdb
+C:\Dhanush\Full stack Training\C#\Test\obj\Debug\net5.0\Creating C# console Appln.genruntimeconfig.cache

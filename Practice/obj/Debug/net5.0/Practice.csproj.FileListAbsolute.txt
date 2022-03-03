@@ -1,0 +1,16 @@
+C:\Dhanush\Full stack Training\C#\Practice\bin\Debug\net5.0\Practice.exe
+C:\Dhanush\Full stack Training\C#\Practice\bin\Debug\net5.0\Practice.deps.json
+C:\Dhanush\Full stack Training\C#\Practice\bin\Debug\net5.0\Practice.runtimeconfig.json
+C:\Dhanush\Full stack Training\C#\Practice\bin\Debug\net5.0\Practice.runtimeconfig.dev.json
+C:\Dhanush\Full stack Training\C#\Practice\bin\Debug\net5.0\Practice.dll
+C:\Dhanush\Full stack Training\C#\Practice\bin\Debug\net5.0\ref\Practice.dll
+C:\Dhanush\Full stack Training\C#\Practice\bin\Debug\net5.0\Practice.pdb
+C:\Dhanush\Full stack Training\C#\Practice\obj\Debug\net5.0\Practice.csproj.AssemblyReference.cache
+C:\Dhanush\Full stack Training\C#\Practice\obj\Debug\net5.0\Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dhanush\Full stack Training\C#\Practice\obj\Debug\net5.0\Practice.AssemblyInfoInputs.cache
+C:\Dhanush\Full stack Training\C#\Practice\obj\Debug\net5.0\Practice.AssemblyInfo.cs
+C:\Dhanush\Full stack Training\C#\Practice\obj\Debug\net5.0\Practice.csproj.CoreCompileInputs.cache
+C:\Dhanush\Full stack Training\C#\Practice\obj\Debug\net5.0\Practice.dll
+C:\Dhanush\Full stack Training\C#\Practice\obj\Debug\net5.0\ref\Practice.dll
+C:\Dhanush\Full stack Training\C#\Practice\obj\Debug\net5.0\Practice.pdb
+C:\Dhanush\Full stack Training\C#\Practice\obj\Debug\net5.0\Practice.genruntimeconfig.cache

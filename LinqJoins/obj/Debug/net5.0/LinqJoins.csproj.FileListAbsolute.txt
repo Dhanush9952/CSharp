@@ -1,0 +1,16 @@
+C:\Dhanush\Full stack Training\C#\LinqJoins\bin\Debug\net5.0\LinqJoins.exe
+C:\Dhanush\Full stack Training\C#\LinqJoins\bin\Debug\net5.0\LinqJoins.deps.json
+C:\Dhanush\Full stack Training\C#\LinqJoins\bin\Debug\net5.0\LinqJoins.runtimeconfig.json
+C:\Dhanush\Full stack Training\C#\LinqJoins\bin\Debug\net5.0\LinqJoins.runtimeconfig.dev.json
+C:\Dhanush\Full stack Training\C#\LinqJoins\bin\Debug\net5.0\LinqJoins.dll
+C:\Dhanush\Full stack Training\C#\LinqJoins\bin\Debug\net5.0\ref\LinqJoins.dll
+C:\Dhanush\Full stack Training\C#\LinqJoins\bin\Debug\net5.0\LinqJoins.pdb
+C:\Dhanush\Full stack Training\C#\LinqJoins\obj\Debug\net5.0\LinqJoins.csproj.AssemblyReference.cache
+C:\Dhanush\Full stack Training\C#\LinqJoins\obj\Debug\net5.0\LinqJoins.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dhanush\Full stack Training\C#\LinqJoins\obj\Debug\net5.0\LinqJoins.AssemblyInfoInputs.cache
+C:\Dhanush\Full stack Training\C#\LinqJoins\obj\Debug\net5.0\LinqJoins.AssemblyInfo.cs
+C:\Dhanush\Full stack Training\C#\LinqJoins\obj\Debug\net5.0\LinqJoins.csproj.CoreCompileInputs.cache
+C:\Dhanush\Full stack Training\C#\LinqJoins\obj\Debug\net5.0\LinqJoins.dll
+C:\Dhanush\Full stack Training\C#\LinqJoins\obj\Debug\net5.0\ref\LinqJoins.dll
+C:\Dhanush\Full stack Training\C#\LinqJoins\obj\Debug\net5.0\LinqJoins.pdb
+C:\Dhanush\Full stack Training\C#\LinqJoins\obj\Debug\net5.0\LinqJoins.genruntimeconfig.cache

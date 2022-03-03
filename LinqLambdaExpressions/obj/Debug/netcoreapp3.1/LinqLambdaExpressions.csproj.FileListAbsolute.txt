@@ -1,0 +1,14 @@
+C:\Dhanush\Full stack Training\C#\LinqLambdaExpressions\bin\Debug\netcoreapp3.1\LinqLambdaExpressions.exe
+C:\Dhanush\Full stack Training\C#\LinqLambdaExpressions\bin\Debug\netcoreapp3.1\LinqLambdaExpressions.deps.json
+C:\Dhanush\Full stack Training\C#\LinqLambdaExpressions\bin\Debug\netcoreapp3.1\LinqLambdaExpressions.runtimeconfig.json
+C:\Dhanush\Full stack Training\C#\LinqLambdaExpressions\bin\Debug\netcoreapp3.1\LinqLambdaExpressions.runtimeconfig.dev.json
+C:\Dhanush\Full stack Training\C#\LinqLambdaExpressions\bin\Debug\netcoreapp3.1\LinqLambdaExpressions.dll
+C:\Dhanush\Full stack Training\C#\LinqLambdaExpressions\bin\Debug\netcoreapp3.1\LinqLambdaExpressions.pdb
+C:\Dhanush\Full stack Training\C#\LinqLambdaExpressions\obj\Debug\netcoreapp3.1\LinqLambdaExpressions.csproj.AssemblyReference.cache
+C:\Dhanush\Full stack Training\C#\LinqLambdaExpressions\obj\Debug\netcoreapp3.1\LinqLambdaExpressions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dhanush\Full stack Training\C#\LinqLambdaExpressions\obj\Debug\netcoreapp3.1\LinqLambdaExpressions.AssemblyInfoInputs.cache
+C:\Dhanush\Full stack Training\C#\LinqLambdaExpressions\obj\Debug\netcoreapp3.1\LinqLambdaExpressions.AssemblyInfo.cs
+C:\Dhanush\Full stack Training\C#\LinqLambdaExpressions\obj\Debug\netcoreapp3.1\LinqLambdaExpressions.csproj.CoreCompileInputs.cache
+C:\Dhanush\Full stack Training\C#\LinqLambdaExpressions\obj\Debug\netcoreapp3.1\LinqLambdaExpressions.dll
+C:\Dhanush\Full stack Training\C#\LinqLambdaExpressions\obj\Debug\netcoreapp3.1\LinqLambdaExpressions.pdb
+C:\Dhanush\Full stack Training\C#\LinqLambdaExpressions\obj\Debug\netcoreapp3.1\LinqLambdaExpressions.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Dhanush\Full stack Training\C#\Test\bin\Debug\net5.0\Test.exe
+C:\Dhanush\Full stack Training\C#\Test\bin\Debug\net5.0\Test.deps.json
+C:\Dhanush\Full stack Training\C#\Test\bin\Debug\net5.0\Test.runtimeconfig.json
+C:\Dhanush\Full stack Training\C#\Test\bin\Debug\net5.0\Test.runtimeconfig.dev.json
+C:\Dhanush\Full stack Training\C#\Test\bin\Debug\net5.0\Test.dll
+C:\Dhanush\Full stack Training\C#\Test\bin\Debug\net5.0\ref\Test.dll
+C:\Dhanush\Full stack Training\C#\Test\bin\Debug\net5.0\Test.pdb
+C:\Dhanush\Full stack Training\C#\Test\obj\Debug\net5.0\Test.csproj.AssemblyReference.cache
+C:\Dhanush\Full stack Training\C#\Test\obj\Debug\net5.0\Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dhanush\Full stack Training\C#\Test\obj\Debug\net5.0\Test.AssemblyInfoInputs.cache
+C:\Dhanush\Full stack Training\C#\Test\obj\Debug\net5.0\Test.AssemblyInfo.cs
+C:\Dhanush\Full stack Training\C#\Test\obj\Debug\net5.0\Test.csproj.CoreCompileInputs.cache
+C:\Dhanush\Full stack Training\C#\Test\obj\Debug\net5.0\Test.dll
+C:\Dhanush\Full stack Training\C#\Test\obj\Debug\net5.0\ref\Test.dll
+C:\Dhanush\Full stack Training\C#\Test\obj\Debug\net5.0\Test.pdb
+C:\Dhanush\Full stack Training\C#\Test\obj\Debug\net5.0\Test.genruntimeconfig.cache
