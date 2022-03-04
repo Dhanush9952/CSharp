@@ -1,0 +1,16 @@
+C:\Dhanush\Full stack Training\C#\ExceptionHandling\bin\Debug\net5.0\ExceptionHandling.exe
+C:\Dhanush\Full stack Training\C#\ExceptionHandling\bin\Debug\net5.0\ExceptionHandling.deps.json
+C:\Dhanush\Full stack Training\C#\ExceptionHandling\bin\Debug\net5.0\ExceptionHandling.runtimeconfig.json
+C:\Dhanush\Full stack Training\C#\ExceptionHandling\bin\Debug\net5.0\ExceptionHandling.runtimeconfig.dev.json
+C:\Dhanush\Full stack Training\C#\ExceptionHandling\bin\Debug\net5.0\ExceptionHandling.dll
+C:\Dhanush\Full stack Training\C#\ExceptionHandling\bin\Debug\net5.0\ref\ExceptionHandling.dll
+C:\Dhanush\Full stack Training\C#\ExceptionHandling\bin\Debug\net5.0\ExceptionHandling.pdb
+C:\Dhanush\Full stack Training\C#\ExceptionHandling\obj\Debug\net5.0\ExceptionHandling.csproj.AssemblyReference.cache
+C:\Dhanush\Full stack Training\C#\ExceptionHandling\obj\Debug\net5.0\ExceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dhanush\Full stack Training\C#\ExceptionHandling\obj\Debug\net5.0\ExceptionHandling.AssemblyInfoInputs.cache
+C:\Dhanush\Full stack Training\C#\ExceptionHandling\obj\Debug\net5.0\ExceptionHandling.AssemblyInfo.cs
+C:\Dhanush\Full stack Training\C#\ExceptionHandling\obj\Debug\net5.0\ExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Dhanush\Full stack Training\C#\ExceptionHandling\obj\Debug\net5.0\ExceptionHandling.dll
+C:\Dhanush\Full stack Training\C#\ExceptionHandling\obj\Debug\net5.0\ref\ExceptionHandling.dll
+C:\Dhanush\Full stack Training\C#\ExceptionHandling\obj\Debug\net5.0\ExceptionHandling.pdb
+C:\Dhanush\Full stack Training\C#\ExceptionHandling\obj\Debug\net5.0\ExceptionHandling.genruntimeconfig.cache
