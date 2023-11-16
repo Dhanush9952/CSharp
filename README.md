@@ -7,4 +7,5 @@ CMPS Training, Chennai. C#, LINQ practice code
 <b>🔴JOINS, SIMPLE-JOIN, MULTIPLE-JOIN</b><br>
 <b>🔴EXCEPTION HANDLING</b><br>
 <b>🔴DELEGATES</b><br>
+<b>🔴2023 C# PRACTICE</b><br>
 <hr>
