@@ -60,10 +60,11 @@ foreach (var name in names)
 }
 
 // FIBONACCI NUMBERS     
-var fibonacciNumbers = new List<int> { 1, 1 };
-
+ var fibonacciNumbers = new List<int> { 1, 1 };
+Console.WriteLine("Enter the Number: ");
+int userInput = Convert.ToInt32(Console.ReadLine());
         // Generate the first 18 Fibonacci numbers (since we already have the first two)
-        for (int i = 2; i < 20; i++)
+        for (int i = 2; i < userInput; i++)
         {
             var previous = fibonacciNumbers[i - 1];
             var previous2 = fibonacciNumbers[i - 2];
@@ -76,3 +77,4 @@ var fibonacciNumbers = new List<int> { 1, 1 };
         {
             Console.WriteLine(item);
         }
+
