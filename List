@@ -41,3 +41,18 @@ Console.WriteLine($"My name is {names[0]} from {names.Count} given names.");
 foreach(var name in names){
 Console.WriteLine(name);
 }
+
+var names = new List<string> { "Dhanush","Darwin", "Balaji", "Shiva", "Ajith", "Kumar"};
+var index = names.IndexOf("Balaji");
+if (index != -1)
+{
+  Console.WriteLine($"The name {names[index]} is at index {index}");
+}
+var notFound = names.IndexOf("Not Found");
+Console.WriteLine($"When an item is not found, IndexOf returns {notFound}");
+
+names.Sort();
+foreach (var name in names)
+{
+  Console.WriteLine($"Hello {name.ToUpper()}!");
+}
