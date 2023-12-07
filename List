@@ -1,0 +1,36 @@
+// var names = new List<string> { "<name>", "Ana", "Felipe" };
+// foreach (var name in names)
+// {
+//   Console.WriteLine($"Hello {name.ToUpper()}!");
+// }
+
+// var numbers = new List<int> { 1, 2, 3, 4, 5 };
+
+// foreach (var number in numbers)
+// {
+//     Console.WriteLine($"The square of {number} is {number * number}");
+// }
+
+// var numbers = new List<int> {1,2,3,4,5,6}; 
+// foreach(var number in numbers)
+// {     
+//     Console.WriteLine($"The Cube of {number} is {number*number*number}");     
+// }
+// var names = new List<string> { "<name>", "Ana", "Felipe" };
+// Console.WriteLine();
+// names.Add("Maria");
+// names.Add("Dhanush");
+// names.Add("Kishore");
+// names.Add("Bill");
+// names.Remove("Ana");
+// foreach (var name in names)
+// {
+//   Console.WriteLine($"Hello {name.ToUpper()}!");
+// }
+
+// Console.WriteLine($"My name is {names[3]}.");
+// Console.WriteLine($"I've added {names[2]} and {names[3]} to the list.");
+
+var numbers = new List<int> { 10, 20, 30, 40, 50 };
+int thirdElement = numbers[2]; // Access the third element (index 2)
+Console.WriteLine(thirdElement);
