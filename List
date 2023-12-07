@@ -31,6 +31,7 @@
 // Console.WriteLine($"My name is {names[3]}.");
 // Console.WriteLine($"I've added {names[2]} and {names[3]} to the list.");
 
+// INDEX, COUNT
 var numbers = new List<int> { 10, 20, 30, 40, 50 };
 int thirdElement = numbers[2]; // Access the third element (index 2)
 Console.WriteLine(thirdElement);
@@ -42,6 +43,7 @@ foreach(var name in names){
 Console.WriteLine(name);
 }
 
+// INDEX VALUES
 var names = new List<string> { "Dhanush","Darwin", "Balaji", "Shiva", "Ajith", "Kumar"};
 var index = names.IndexOf("Balaji");
 if (index != -1)
@@ -56,3 +58,21 @@ foreach (var name in names)
 {
   Console.WriteLine($"Hello {name.ToUpper()}!");
 }
+
+// FIBONACCI NUMBERS     
+var fibonacciNumbers = new List<int> { 1, 1 };
+
+        // Generate the first 18 Fibonacci numbers (since we already have the first two)
+        for (int i = 2; i < 20; i++)
+        {
+            var previous = fibonacciNumbers[i - 1];
+            var previous2 = fibonacciNumbers[i - 2];
+
+            fibonacciNumbers.Add(previous + previous2);
+        }
+
+        // Print the Fibonacci numbers
+        foreach (var item in fibonacciNumbers)
+        {
+            Console.WriteLine(item);
+        }
