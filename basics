@@ -192,3 +192,14 @@ Console.WriteLine($"{course4Name}\t{course4Grade}\t\t{course4Credit}");
 Console.WriteLine($"{course5Name}\t\t{course5Grade}\t\t{course5Credit}");
 
 Console.WriteLine($"\nFinal GPA:\t\t\t {leadingDigit}.{firstDigit}{secondDigit}");
+
+// IF ELSE BOOL, CONTAINS
+
+string message = "The quick brown fox jumps over the lazy dog.";
+bool result = message.Contains("dog");
+Console.WriteLine(result);
+
+if (message.Contains("fox"))
+{
+    Console.WriteLine("What does the fox say?");
+}
