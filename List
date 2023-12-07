@@ -34,3 +34,10 @@
 var numbers = new List<int> { 10, 20, 30, 40, 50 };
 int thirdElement = numbers[2]; // Access the third element (index 2)
 Console.WriteLine(thirdElement);
+
+var names = new List<string> { "Dhanush","Darwin", "Balaji", "Shiva", "Ajith", "Kumar"};
+Console.WriteLine($"My name is {names[0]} from {names.Count} given names.");
+
+foreach(var name in names){
+Console.WriteLine(name);
+}
