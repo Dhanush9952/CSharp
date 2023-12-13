@@ -1,0 +1,41 @@
+class Program
+{
+    static void Main()
+    {
+        Console.Write("Enter a string: ");
+        string inputString = Console.ReadLine();
+
+        // Remove spaces and convert to lowercase for case-insensitive comparison
+        string cleanedString = inputString.Replace(" ", "").ToLower();
+
+        if (IsPalindrome(cleanedString))
+        {
+            Console.WriteLine($"{inputString} is a palindrome.");
+        }
+        else
+        {
+            Console.WriteLine($"{inputString} is not a palindrome.");
+        }
+
+        Console.ReadLine(); // To keep the console window open
+    }
+
+    static bool IsPalindrome(string str)
+    {
+        int left = 0;
+        int right = str.Length - 1;
+
+        while (left < right)
+        {
+            if (str[left] != str[right])  //because only if all characters matches, it is a palindrome
+            {
+                return false; // Characters at symmetric positions are different
+            }
+
+            left++;
+            right--;
+        }
+
+        return true; // All characters matched, it's a palindrome
+    }
+}
