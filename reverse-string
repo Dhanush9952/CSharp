@@ -1,0 +1,41 @@
+class Program
+{
+    static void Main()
+    {
+        Console.Write("Enter a string: ");
+        string inputString = Console.ReadLine();
+
+        List<char> charList = new List<char>();
+
+        // Convert the string to a list of characters
+        foreach (char c in inputString)
+        {
+            charList.Add(c);
+        }
+
+        // Reverse the list of characters
+        int left = 0;
+        int right = charList.Count - 1;
+
+        while (left < right)
+        {
+            // Swap characters at left and right indices
+            char temp = charList[left];
+            charList[left] = charList[right];
+            charList[right] = temp;
+
+            // Move indices towards the center
+            left++;
+            right--;
+        }
+
+        // Convert the reversed list of characters back to a string
+        string reversedString = new string(charList.ToArray());
+
+        // Display the reversed string
+        Console.WriteLine("Reversed string: " + reversedString);
+
+        Console.ReadLine(); // To keep the console window open
+    }
+}
+
