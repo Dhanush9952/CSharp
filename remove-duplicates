@@ -38,3 +38,27 @@ class Program
         return result;
     }
 }
+
+=============================================================================================
+//  *************  ALTERNATE CODING USING LINQ - DISTINCT ***********************
+=============================================================================================
+using System.Linq;
+using System;
+namespace LogicalPrograms
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.Write("Enter a String : ");
+            string inputString = Console.ReadLine();
+            
+            var uniqueCharArray = inputString.ToCharArray().Distinct().ToArray();
+            var resultString = new string(uniqueCharArray);
+
+            Console.WriteLine("After Removing Duplicates : " + resultString);
+            Console.ReadKey();
+        }
+    }
+}
+=============================================================================================
