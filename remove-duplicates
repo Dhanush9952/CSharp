@@ -1,0 +1,40 @@
+using System;
+using System.Linq;
+
+class Program
+{
+    static void Main()
+    {
+        Console.Write("Enter a string: ");
+        string inputString = Console.ReadLine();
+
+        string resultString = RemoveDuplicates(inputString);
+
+        Console.WriteLine($"String after removing duplicates: {resultString}");
+
+        Console.ReadLine(); // To keep the console window open
+    }
+
+    static string RemoveDuplicates(string str)
+    {
+        char[] charArray = str.ToCharArray();
+        int length = charArray.Length;
+
+        for (int i = 0; i < length; i++)
+        {
+            for (int j = i + 1; j < length; j++)
+            {
+                // If duplicate found, replace it with a null character
+                if (charArray[i] == charArray[j])
+                {
+                    charArray[j] = '\0';
+                }
+            }
+        }
+
+        // Use LINQ to filter out null characters and create the result string
+        string result = new string(charArray.Where(c => c != '\0').ToArray());
+
+        return result;
+    }
+}
