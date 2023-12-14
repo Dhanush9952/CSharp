@@ -68,3 +68,67 @@ class Program
         Console.WriteLine();
     }
 }
+
+==============================================================
+**************  ALTERNATE CODE ************************
+==============================================================
+
+using System;
+// using System.Collections.Generic;
+
+// class Program
+// {
+//     static void Main()
+//     {
+//         List<int> numbers = GetInput();
+
+//         int largest = int.MinValue;
+//         int secondLargest = int.MinValue;
+
+//         foreach (int num in numbers)
+//         {
+//             if (num > largest)
+//             {
+//                 secondLargest = largest;
+//                 largest = num;
+//             }
+//             else if (num > secondLargest && num < largest)
+//             {
+//                 secondLargest = num;
+//             }
+//         }
+
+//         if (secondLargest != int.MinValue)
+//         {
+//             Console.WriteLine($"Second largest number: {secondLargest}");
+//         }
+//         else
+//         {
+//             Console.WriteLine("List does not have a second largest element.");
+//         }
+
+//         Console.ReadLine(); // To keep the console window open
+//     }
+
+//     static List<int> GetInput()
+//     {
+//         Console.WriteLine("Enter numbers separated by spaces:");
+//         string input = Console.ReadLine();
+        
+//         List<int> numbers = new List<int>();
+
+//         foreach (string numberStr in input.Split(' '))
+//         {
+//             if (int.TryParse(numberStr, out int number))
+//             {
+//                 numbers.Add(number);
+//             }
+//             else
+//             {
+//                 Console.WriteLine($"Invalid input: {numberStr}. Ignored.");
+//             }
+//         }
+
+//         return numbers;
+//     }
+// }
